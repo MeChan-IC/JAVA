@@ -7,6 +7,7 @@ Session 1: 24/01/26
 Learnt about JDK and how to download it.
 Learnt about Java Environment.
 The Basic Anatomy of Java and its basic components such as Class, Functions, Methods, Accesss Modifiers, etc.
+Simple Java Programs, like Hello World, basic printing and understanding other basic program functionalities.
 
 Session 2: 03/022/26
 Packages, their use cases and why they are necessary.
