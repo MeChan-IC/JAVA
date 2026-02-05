@@ -20,4 +20,7 @@ Build a Mortgage Calculator, that calculates mortgages but it is currently not o
 Further, diving in Operators like Comparison, Logical operators.
 Conditional Statements like if, if-else, if-else-if & switch case.
 
-4. Session 4: 
+4. Session 4: 05/02/26
+Did the FizzBuzz exercise.
+Learnt basics of loops like for loop, while loop & do-while loop.
+Learning about break & continue statements and their use cases.
